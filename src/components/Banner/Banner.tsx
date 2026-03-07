@@ -11,9 +11,9 @@ import { useEffect, useRef, useState } from 'react';
 
 export const Banner = () => {
   const images = [
-    `/img/banner-phones.png`,
-    `/img/banner-tablets.png`,
-    `/img/banner-accessories.png`,
+    `img/banner-phones.png`,
+    `img/banner-tablets.png`,
+    `img/banner-accessories.png`,
   ];
 
   const prevRef = useRef<HTMLButtonElement | null>(null);
