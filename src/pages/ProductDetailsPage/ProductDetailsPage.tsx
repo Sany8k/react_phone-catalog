@@ -125,7 +125,7 @@ export const ProductDetailsPage = () => {
         <>
           <span className={styles.main__errorTitle}>Product not found</span>
           <img
-            src="/img/product-not-found.png"
+            src="img/product-not-found.png"
             alt="Product not found"
             className={styles.main__errorImg}
           />

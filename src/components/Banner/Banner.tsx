@@ -64,7 +64,7 @@ export const Banner = () => {
           aria-label="Previous slide"
           type="button"
         >
-          <img src="/img/icons/icon-arrow-left.svg" alt="Prev" />
+          <img src="img/icons/icon-arrow-left.svg" alt="Prev" />
         </button>
 
         <button
@@ -73,7 +73,7 @@ export const Banner = () => {
           aria-label="Next slide"
           type="button"
         >
-          <img src={`./img/icons/icon-arrow-right.svg`} alt="Next" />
+          <img src="img/icons/icon-arrow-right.svg" alt="Next" />
         </button>
       </div>
 
