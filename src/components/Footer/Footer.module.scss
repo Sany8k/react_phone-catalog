@@ -123,6 +123,7 @@
       background-image: url(/public/img/icons/icon-arrow-up.svg);
       background-repeat: no-repeat;
       background-position: center;
+      cursor: pointer;
 
       @include hover (border-color, $primary-color);
     }
