@@ -78,7 +78,7 @@
     transition: transform 0.3s;
   }
 
-  .rs__control--is-focused .rs__dropdown-indicator {
+  .rs__control--menu-is-open .rs__dropdown-indicator {
     transform: rotate(180deg);
   }
 
