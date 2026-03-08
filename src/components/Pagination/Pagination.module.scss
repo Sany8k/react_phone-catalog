@@ -62,14 +62,14 @@
   }
 
   &__prev {
-    background-image: url('img/icons/icon-arrow-left.svg');
+    background-image: url('/img/icons/icon-arrow-left.svg');
     &:not(.pagination__itemDisabled):hover {
       border-color: $primary-color;
     }
   }
 
   &__next {
-    background-image: url('img/icons/icon-arrow-right.svg');
+    background-image: url('/img/icons/icon-arrow-right.svg');
     &:not(.pagination__itemDisabled):hover {
       border-color: $primary-color;
     }
